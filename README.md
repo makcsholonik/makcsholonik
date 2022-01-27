@@ -1,4 +1,4 @@
-[![Header](https://github.com/makcsholonik/makcsholonik/blob/main/img/header.gif)]
+![Header](https://github.com/makcsholonik/makcsholonik/blob/main/img/header.gif)
 
 [comment]: <> (# I'm a frontend developer from Belarus, Brest)
 
