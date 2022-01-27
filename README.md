@@ -1,4 +1,4 @@
-[comment]: <> ([![Header]&#40;https://github.com/makcsholonik/makcsholonik/blob/main/assets/header.gif&#41;])
+[![Header](https://github.com/makcsholonik/makcsholonik/blob/main/assets/header.gif)]
 
 [comment]: <> (# I'm a frontend developer from Belarus, Brest)
 
