@@ -13,11 +13,11 @@
 
 ## Tools:
 
-<img src="https://img.shields.io/badge/DevTools-282C34?logo=googlechrome&logoColor=000000" alt="DevTools logo" title="DevTools" height="30" />
-<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="Github logo" title="Github" height="30" />
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=ffc0cb" alt="Sass logo" title="Sass" height="30" />
-<img src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&logoColor=3178C6" alt="VS Code logo" title="VS Code" height="30" />
-<img src="https://img.shields.io/badge/Webstorm-282C34?logo=webstorm&logoColor=000000" alt="Webstorm logo" title="Webstorm" height="30" />
+<img src="https://img.shields.io/badge/DevTools-282C34?logo=googlechrome&logoColor=A9A9A9" alt="DevTools logo" title="DevTools" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="Github logo" title="Github" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=ffc0cb" alt="Sass logo" title="Sass" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&logoColor=3178C6" alt="VS Code logo" title="VS Code" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/Webstorm-282C34?logo=webstorm&logoColor=A9A9A9" alt="Webstorm logo" title="Webstorm" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=3178C6" alt="Yarn logo" title="Yarn" height="30" />
 
 ## Connect with me:
