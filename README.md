@@ -1,6 +1,7 @@
 ![Header](https://github.com/makcsholonik/makcsholonik/blob/main/img/header.gif)
 
-# I'm a frontend developer
+# Hi theme, my name is Maxim Sholonik!
+## I'm a frontend developer.
 
 <a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="40"></img></a>
 &nbsp;
