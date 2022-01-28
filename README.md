@@ -2,6 +2,11 @@
 
 # I'm a frontend developer
 
+<a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="40"></img></a>
+&nbsp;
+<a target="_blank" href=""><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="40"></img></a>
+&nbsp;
+
 ## Technologies:
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />  &nbsp;
