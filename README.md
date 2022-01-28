@@ -13,8 +13,4 @@
 
 ## Connect with me:
 
-<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30" />
-
-<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=E34F26" alt="Gmail logo" title="Gmail" height="30" />
-
-<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=764ABC" alt="Telegram logo" title="Telegram" height="30" />
+<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30" /> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=E34F26" alt="Gmail logo" title="Gmail" height="30" /> <img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=764ABC" alt="Telegram logo" title="Telegram" height="30" />
