@@ -13,6 +13,7 @@
 
 ## Connect with me:
 
-<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=E34F26" alt="Gmail logo" title="Gmail" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=764ABC" alt="Telegram logo" title="Telegram" height="30" /> &nbsp;
+[![Linkedin](<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30" />)](https://www.linkedin.com/in/makcsholonik/) &nbsp;
+[![Instagram](<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E34F26" alt="Instagram logo" title="Instagram" height="30" />)](https://www.instagram.com/makc.sholonik/) &nbsp;
+[![Telegram](<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=764ABC" alt="Telegram logo" title="Telegram" height="30" />)](https://t.me/makcsholonik) &nbsp;
+
