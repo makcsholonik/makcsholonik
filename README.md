@@ -13,7 +13,9 @@
 
 ## Connect with me:
 
-<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30" href='https://www.linkedin.com/in/makcsholonik/' /> &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/makcsholonik/"><img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=1572B6" alt="Linkedin logo" title="Linkedin" height="30"></img></a>
+
+
 
 [comment]: <> ([![Instagram]&#40;<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E34F26" alt="Instagram logo" title="Instagram" height="30" />&#41;]&#40;https://www.instagram.com/makc.sholonik/&#41; &nbsp;)
 
