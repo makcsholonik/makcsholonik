@@ -4,7 +4,7 @@
 
 <a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="40"></img></a>
 &nbsp;
-<a target="_blank" href=""><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="40"></img></a>
+<a target="_blank" href="https://github.com/makcsholonik/makcsholonik/blob/main/cv/CV.pdf"><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="40"></img></a>
 &nbsp;
 
 ## Technologies:
@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" /> &nbsp;
- <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" />
+ <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /> &nbsp;
  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />  &nbsp;
  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=3178C6" alt="CSS3 logo" title="CSS3" height="30" />  &nbsp;
  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
