@@ -4,10 +4,14 @@
 
 <a target="_blank" href="https://github.com/makcsholonik/makcsholonik/blob/main/cv/CV.pdf"><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="30"></img></a>
 &nbsp;
-<a target="_blank" href="https://www.codewars.com/users/makc.sholonik/"><img src="https://img.shields.io/badge/CODEWARS-282C34?logo=logoColor=1572B6" alt="Codewars logo" title="Codewars" height="30"></img></a>
-&nbsp;
 <a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="30"></img></a>
 &nbsp;
+
+## CodeWars:
+
+This is the [GitHub repository](https://github.com/makcsholonik/codewars) where I save copies of the katas I've completed on codewars.com.
+
+[![Profile badge](https://www.codewars.com/users/makc.sholonik/badges/large)](https://www.codewars.com/users/makc.sholonik)
 
 ## Technologies:
 
