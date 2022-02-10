@@ -2,7 +2,7 @@
 
 ## Hi theme, my name is Maxim Sholonik! I'm a frontend developer.
 
-<a target="_blank" href="https://github.com/makcsholonik/makcsholonik/blob/main/cv/CV.pdf"><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="30"></img></a>
+<a target="_blank" href="https://github.com/makcsholonik/makcsholonik/blob/main/cv/CV Maxim Sholonik.pdf"><img src="https://img.shields.io/badge/CV-282C34?logo=logoColor=1572B6" alt="CV logo" title="CV" height="30"></img></a>
 &nbsp;
 <a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="30"></img></a>
 &nbsp;
