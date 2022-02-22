@@ -2,8 +2,9 @@
 
 ## Hi theme, my name is Maxim Sholonik! I'm a frontend developer.
 
-<a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="30"></img></a>
-&nbsp;
+[comment]: <> (<a target="_blank" href="https://makcsholonik.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-282C34?logo=logoColor=1572B6" alt="Portfolio logo" title="Portfolio" height="30"></img></a>)
+
+[comment]: <> (&nbsp;)
 
 ## CodeWars:
 
